@@ -17,7 +17,7 @@ body {
     margin: 0 auto;
     border: 2px solid blue;
     min-height: 652px;
-    background-image: url("/assets/Hero-bg.png");
+    background-image: url("/images/Hero-bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
